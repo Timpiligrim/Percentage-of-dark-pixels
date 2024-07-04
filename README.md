@@ -1,4 +1,4 @@
-# Percentage-of-dark-pixels
+# The proportion of dark pixels
 
 1. Open the image.
 2. Select the threshold at which the zones of interest are colored.
